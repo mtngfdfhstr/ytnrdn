@@ -1,7 +1,7 @@
 {
   "name": "Xray快速部署",
-  "yunrtnty": "Deploy Xray Vless to Heroku.",
-  "qwdfwg": ["V2ray", "Xray"],
+  "ytnrdn": "Deploy Xray Vless to Heroku.",
+  "ytnrdn": ["V2ray", "Xray"],
   "env": {
     "ProxySite": {
       "description": "反代一个网站，例如：mirror.umd.edu，不填写表示使用本地静态网页文件。",
